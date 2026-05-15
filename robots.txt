@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shubhambhati.vercel.app/sitemap.xml
+Sitemap: https://shubh2-0.github.io/shubhambhati/sitemap.xml
