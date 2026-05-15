@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+node_modules/
+.vercel/
+.env
+.env.local
+*.log
+.claude/
+medium-drafts/
+devto-drafts/
+quora-drafts/
+STRATEGY.md
+wikidata-draft.md
+ACTION-PLAN.md
+linkedin-bio.md
+social-bios.md
